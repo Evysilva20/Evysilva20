@@ -6,21 +6,21 @@
   
   <h3>🌐 Estudante de Tecnologia | 📍 Florianópolis, SC</h3>
   
-  <p><i>Transformando lógica em estética através do design e do código.</i></p>
+  <p><i>"Transformando lógica em estética através do design e do código."</i></p>
 </div>
 
 ---
 
-# Olá, sou a Evily! Tudo bem? 👋
+# Olá, sou a Evily! 👋 👾
 
-Estudante de Análise e Desenvolvimento de Sistemas na Univali, baseada na Grande Florianópolis, SC. Atualmente, estou explorando as diversas possibilidades do mundo da tecnologia, como virtualização, interfaces de sites (UX/UI Design), banco de dados e inteligências artificiais para otimização e aprendizado guiado, com foco em unir lógica e estética visual.
+Estudante de **Análise e Desenvolvimento de Sistemas na Univali**, baseada na Grande Florianópolis, SC. Atualmente, estou explorando as diversas possibilidades do mundo da tecnologia, com foco em unir lógica, interfaces de sites (UX/UI) e a beleza do **Pixel Art**.
 
 ### 🎨 O que venho explorando
 Não me defino apenas como frontend ou backend; prefiro entender como as engrenagens funcionam por completo.
 
 * **Design de Sites:** Busco criar layouts que sejam funcionais e visualmente interessantes.
-* **Estética Pixel Art:** Sou fascinada pela visualização e pelo estilo artístico do Pixel Art, estudando como aplicar essa estética em projetos digitais.
-* **Tecnologia e Lógica:** Praticando fundamentos de programação e estrutura de dados.
+* **Estética Pixel Art:** Sou fascinada pela visualização e pelo estilo artístico de pixels, estudando como aplicar essa estética em projetos digitais.
+* **Tecnologia e Lógica:** Praticando fundamentos com **Python**, **C** e explorando o potencial das **IAs**.
 
 ---
 
@@ -37,13 +37,13 @@ Não me defino apenas como frontend ou backend; prefiro entender como as engrena
 
 ---
 
-### ✨ Inspirações e Hobbies
-Minha apreciação por estilos visuais como o Pixel Art vem muito de jogos que admiro, como **Stardew Valley** e **Minecraft**. Gosto de observar como a simplicidade dos pixels pode criar ambientes tão ricos, detalhados e acolhedores.
+### ✨ Inspirações
+Minha apreciação por estilos visuais como o Pixel Art vem muito de jogos que admiro, como **Stardew Valley** e **Minecraft**. Gosto de observar como a simplicidade dos pixels pode criar ambientes tão ricos e acolhedores.
 
 ---
 
 <div align="center">
-  <p>Vamos nos conectar?</p>
+  <p><b>Vamos nos conectar?</b></p>
 
   <a href="mailto:evysilva784@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
@@ -54,6 +54,6 @@ Minha apreciação por estilos visuais como o Pixel Art vem muito de jogos que a
 
   <br/><br/>
   
-  <p>visitas ao perfil</p>
+  <sub><i>visitas ao perfil</i></sub><br/>
   <img src="https://komarev.com/ghpvc/?user=Evysilva20&color=blueviolet&style=flat-square" alt="Contador de Visitas" />
 </div>
