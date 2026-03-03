@@ -38,7 +38,7 @@ Não me defino apenas como frontend ou backend; prefiro entender como as engrena
 ---
 
 ### ✨ Inspirações e Hobbies
-Minha apreciação por estilos visuais como o Pixel Art vem muito de jogos que admiro, como **Stardew Valley** e **Minecraft**. Gosto de observar como a simplicidade dos pixels pode criar ambientes tão ricos, detalhados e muito acolhedores.
+Minha apreciação por estilos visuais como o Pixel Art vem muito de jogos que admiro, como **Stardew Valley** e **Minecraft**. Gosto de observar como a simplicidade dos pixels pode criar ambientes tão ricos, detalhados e acolhedores.
 
 ---
 
@@ -48,10 +48,12 @@ Minha apreciação por estilos visuais como o Pixel Art vem muito de jogos que a
   <a href="mailto:evysilva784@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/evilysilva" target="_blank">
+  <a href="https://www.linkedin.com/in/evilysilva" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?user=evily-silva&color=blueviolet&style=flat-square" alt="Contador de Visitas" />
+  
+  <p>visitas ao perfil</p>
+  <img src="https://komarev.com/ghpvc/?user=Evysilva20&color=blueviolet&style=flat-square" alt="Contador de Visitas" />
 </div>
