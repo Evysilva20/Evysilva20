@@ -52,8 +52,5 @@ Minha apreciação por estilos visuais como o Pixel Art vem muito de jogos que a
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
-  <br/><br/>
-  
-  <sub><i>visitas ao perfil</i></sub><br/>
-  <img src="https://komarev.com/ghpvc/?user=Evysilva20&color=blueviolet&style=flat-square" alt="Contador de Visitas" />
+  <br/>
 </div>
