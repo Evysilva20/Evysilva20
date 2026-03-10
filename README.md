@@ -13,14 +13,13 @@
 
 # Olá, sou a Evily! 👋 👾
 
-Estudante de **Análise e Desenvolvimento de Sistemas na Univali**, baseada na Grande Florianópolis, SC. Atualmente, estou explorando as diversas possibilidades do mundo da tecnologia, com foco em unir lógica, interfaces de sites (UX/UI) e a beleza do **Pixel Art**.
+Estudante de **Análise e Desenvolvimento de Sistemas na Univali**, baseada na Grande Florianópolis, SC. Atualmente, estou explorando as diversas possibilidades do mundo da tecnologia, com foco em unir lógica e interfaces de sites (UX/UI).
 
 ### 🎨 O que venho explorando
 Não me defino apenas como frontend ou backend; prefiro entender como as engrenagens funcionam por completo.
 
 * **Design de Sites:** Busco criar layouts que sejam funcionais e visualmente interessantes.
-* **Estética Pixel Art:** Sou fascinada pela visualização e pelo estilo artístico de pixels, estudando como aplicar essa estética em projetos digitais.
-* **Tecnologia e Lógica:** Praticando fundamentos com **Python**, **C** e explorando o potencial das **IAs**.
+* **Tecnologia e Lógica:** Pratiquei fundamentos com **Python**, **C**, **JS** e explorando o potencial das **IAs**.
 
 ---
 
